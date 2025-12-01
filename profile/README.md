@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./craftcode-logo.png" alt="CraftCode Logo" width="320" />
+  <img src="./craftcode-full-color_RGB.png" alt="CraftCode Logo" width="320" />
 </p>
 
 <h1 align="center">Java Versions Workshop @ CraftCode</h1>
